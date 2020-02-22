@@ -34,7 +34,8 @@ a {
 
 .top-pic div {
     color: #fa8900;
-    text-shadow: #cf3232 1px 4px 5px;
+    text-stroke: 1px #702200;
+    -webkit-text-stroke: 1px #702200;
 }
 
 .top-pic .title {
