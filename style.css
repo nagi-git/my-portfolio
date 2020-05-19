@@ -135,6 +135,10 @@ figure > a::after {
     background-image: url('work3-pic.jpg');
 }
 
+.work-pic-4 {
+    background-image: url('work4-pic.jpg');
+}
+
 figure {
     background-color: #ffc782;
     border: solid 2px #ed6700;
